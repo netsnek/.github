@@ -7,5 +7,5 @@
 <h3 align="center">Snek Functions Collection</h3>
 
 <p align="center">
-  This is a collection of microservices based on snek-functions provided by snek-at.
+  This is a collection of microservices based on <a href="https://github.com/snek-at/functions" target="blank">snek-at/functions</a> provided by snek-at.
 </p>
