@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Snek Function</h3>
+<h3 align="center">Snek Functions Collection</h3>
 
 <p align="center">
   This is a collection of snek-function implementations provided by snek-at.
