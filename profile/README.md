@@ -7,5 +7,5 @@
 <h3 align="center">Snek Function</h3>
 
 <p align="center">
-  This is a collection of snek-function projects provided by snek-at.
+  This is a collection of snek-function implementations provided by snek-at.
 </p>
