@@ -1,14 +1,12 @@
 <p align="center">
   <a href="https://snek.at/" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-images.githubusercontent.com/26285351/208744045-1ee54b94-5ab6-41dc-a70e-b604fba24e56.gif" alt="SNEK Logo" height="150">
+    <img src="https://user-images.githubusercontent.com/26285351/208975085-1bf90219-464b-4ba7-995c-d72e70b465e0.gif" alt="SNEK Logo" height="150">
   </a>
 </p>
 
-<h3 align="center">snek</h3>
-
-<p align="center">
+<h3 align="center">
   Become a snek (hisss)...
-</p>
+</h3>
 
 <p align="left">
   and check out our new projects:
