@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://snek.at/" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-images.githubusercontent.com/26285351/208975085-1bf90219-464b-4ba7-995c-d72e70b465e0.gif" alt="SNEK Logo" height="150">
+    <img src="https://user-images.githubusercontent.com/26285351/209243611-48695bc0-165f-4bcc-aacf-5616fb3ecc96.gif" alt="SNEK Logo" height="150">
   </a>
 </p>
 
