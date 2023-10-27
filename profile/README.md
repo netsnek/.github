@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<h3 align="center">
-  Become a snek (hisss)...
-</h3>
-
 <p align="left">
   and check out our new projects:
 </p>
