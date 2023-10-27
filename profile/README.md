@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  check out our new projects:
+  Check out our new projects:
 </p>
 <ul align="left">
    <li>
