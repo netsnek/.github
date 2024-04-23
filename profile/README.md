@@ -29,3 +29,5 @@
     Collection of funny projects developed by <a href="https://github.com/orgs/snek-at/people" target="blank">sneks</a>.
   </li>
 </ul>
+![Netsnek Logo Transparent](https://github.com/netsnek/.github/assets/26285351/57e89472-a832-4fe1-9d77-d7c6970f022a)
+
