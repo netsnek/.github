@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://snek.at/" target="_blank" rel="noopener noreferrer">
+  <a href="https://netsnek.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/26285351/278545054-5aef6076-5fa2-416b-9322-4234587319e3.png" alt="SNEK Logo" height="150">
   </a>
 </p>
@@ -29,5 +29,3 @@
     Collection of funny projects developed by <a href="https://github.com/orgs/snek-at/people" target="blank">sneks</a>.
   </li>
 </ul>
-![Netsnek Logo Transparent](https://github.com/netsnek/.github/assets/26285351/57e89472-a832-4fe1-9d77-d7c6970f022a)
-
